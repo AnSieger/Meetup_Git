@@ -13,6 +13,7 @@ Das Wichtigste ist, dass wir Spaß haben und produktiv Ideen durchgehen.
 
 * Hier anmelden für [Donnerstag, 5. Juli 2018, Hochschule Bonn-Rhein-Sieg](https://www.meetup.com/de-DE/Brainstorming-Unternehmensgrundung/events/gzqvvpyxkbhb/)
 
+### Gruppenaufgaben
 Wir haben für dieses Treffen ein paar Gruppenaufgaben definiert, die auch gerne jeder neue Teilnehmer vorbereiten und so gleich mit einsteigen kann.
 
 * Ausfüllen eines [Business Model Canvas](https://canvanizer.com/downloads/business_model_canvas_poster.pdf) für eine eigene Idee (so gut wie möglich, den Rest schauen wir uns zusammen an)
@@ -23,5 +24,5 @@ Wir haben für dieses Treffen ein paar Gruppenaufgaben definiert, die auch gerne
 
 ## Protokolle der bisherigen Treffen
 
-* [Protokoll für Treffen #3 (21. Juni 2018)](blob/master/protocol/meeting-03.md)
-* [Protokoll für Treffen #2 (7. Juni 2018)](blob/master/protocol/meeting-02.md)
+* [Protokoll für Treffen #3 (21. Juni 2018)](protocol/meeting-03.md)
+* [Protokoll für Treffen #2 (7. Juni 2018)](protocol/meeting-02.md)
