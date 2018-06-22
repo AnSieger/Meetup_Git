@@ -11,15 +11,17 @@ Das Wichtigste ist, dass wir Spaß haben und produktiv Ideen durchgehen.
 
 ## Nächstes Treffen
 
-* [Donnerstag, 5. Juli 2018, Hochschule Bonn-Rhein-Sieg](https://www.meetup.com/de-DE/Brainstorming-Unternehmensgrundung/events/gzqvvpyxkbhb/)
+* Hier anmelden für [Donnerstag, 5. Juli 2018, Hochschule Bonn-Rhein-Sieg](https://www.meetup.com/de-DE/Brainstorming-Unternehmensgrundung/events/gzqvvpyxkbhb/)
 
 Wir haben für dieses Treffen ein paar Gruppenaufgaben definiert, die auch gerne jeder neue Teilnehmer vorbereiten und so gleich mit einsteigen kann.
 
-[ ] Created a [Business Model Canvas](https://canvanizer.com/downloads/business_model_canvas_poster.pdf) for one of your ideas
-[ ] Checked your personality on [16personalities.com](https://www.16personalities.com)
-[ ] Prepared one problem to discuss (e.g. from [openIDEO](https://www.openideo.com))
+* Ausfüllen eines [Business Model Canvas](https://canvanizer.com/downloads/business_model_canvas_poster.pdf) für eine eigene Idee (so gut wie möglich, den Rest schauen wir uns zusammen an)
+
+* Durchführung des Persönlichkeitstests von [16personalities.com](https://www.16personalities.com), um beim nächsten Mal zu wissen, wer wer ist ;)
+
+* Ein Problem Deiner Wahl vorbereiten (z.B. von [openIDEO](https://www.openideo.com)) um es beim nächsten Mal zu diskutieren
 
 ## Protokolle der bisherigen Treffen
 
-* [Protokoll von Treffen #3, 21. Juni 2018](../blob/master/protocol/meeting-03.md)
-* [Protokoll von Treffen #2, 7. Juni 2018](../blob/master/protocol/meeting-02.md)
+* [Protokoll für Treffen #3 (21. Juni 2018)](blob/master/protocol/meeting-03.md)
+* [Protokoll für Treffen #2 (7. Juni 2018)](blob/master/protocol/meeting-02.md)
