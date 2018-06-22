@@ -63,8 +63,8 @@ Here we want to identify new ideas and discuss them
 What does everyone commit until the next meeting
 
 ### Everyone
-[ ] Created a Business Model Canvas for one of his ideas
-[ ] Checked his personality on 16personalities.com
+[ ] Created a Business Model Canvas for one of your ideas
+[ ] Checked your personality on 16personalities.com
 [ ] Prepared one problem to discuss (e.g. from https://www.openideo.com)
 
 ### Andre

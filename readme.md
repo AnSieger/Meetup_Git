@@ -1,24 +1,25 @@
-# Treffen 2  
-07.06.2018 18:30  
-Anwesende: Andrian, Andreas, Octav, Andre
----
-## Themen  
-* Produktiv über den Tag arbeiten
-    * Pomodoro Technik (25min arbeiten, 5min Pause)
-    * Powernaps über den Tag verteilt (20min)
-    * Habits aufbauen
-    * Ablaufpläne
-* Kompetenz ausstrahlen
-    * Sportliches Erscheinungsbild zeugt von Disziplin
-* In Modulen denken (outsourcing, Spezialisten beschäftigen)
-* Design thinking
+# Brainstorming -> Geschäftsmodelle
 
-    
-    
-Diese Bücher waren im Gespräch:
-* Pitch Anything von Oren Klaff
-* Dein Wille geschehe von Stefan Merath
+## Worum es bei uns geht
+Brainstorming über mögliche Unternehmensideen bzw. Geschäftsmodelle.
 
+Das Besprechen von Ideen und Kennenlernen anderer Menschen mit den gleichen Ambitionen steht bei uns im Mittelpunkt. Wir sprechen auch über die Herangehensweise um neue Konzepte zu entwerfen.
 
-## Aufgabe vor dem nächsten Treffen  
-* "Lean Coffee" Technik verstehen(z.B Video durch YouTube) und 3 Ideen sammeln.
+Das Wichtigste ist, dass wir Spaß haben und produktiv Ideen durchgehen.
+
+* [Unsere MeetUp-Seite](https://www.meetup.com/de-DE/Brainstorming-Unternehmensgrundung/)
+
+## Nächstes Treffen
+
+* [Donnerstag, 5. Juli 2018, Hochschule Bonn-Rhein-Sieg](https://www.meetup.com/de-DE/Brainstorming-Unternehmensgrundung/events/gzqvvpyxkbhb/)
+
+Wir haben für dieses Treffen ein paar Gruppenaufgaben definiert, die auch gerne jeder neue Teilnehmer vorbereiten und so gleich mit einsteigen kann.
+
+[ ] Created a [Business Model Canvas](https://canvanizer.com/downloads/business_model_canvas_poster.pdf) for one of your ideas
+[ ] Checked your personality on [16personalities.com](https://www.16personalities.com)
+[ ] Prepared one problem to discuss (e.g. from [openIDEO](https://www.openideo.com))
+
+## Protokolle der bisherigen Treffen
+
+* [Protokoll von Treffen #3, 21. Juni 2018](../blob/master/protocol/meeting-03.md)
+* [Protokoll von Treffen #2, 7. Juni 2018](../blob/master/protocol/meeting-02.md)
