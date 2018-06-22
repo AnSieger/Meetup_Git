@@ -1,7 +1,8 @@
+# Treffen 2  
 07.06.2018 18:30  
 Anwesende: Andrian, Andreas, Octav, Andre
 ---
-# Themen  
+## Themen  
 * Produktiv über den Tag arbeiten
     * Pomodoro Technik (25min arbeiten, 5min Pause)
     * Powernaps über den Tag verteilt (20min)
@@ -19,6 +20,5 @@ Diese Bücher waren im Gespräch:
 * Dein Wille geschehe von Stefan Merath
 
 
-# Aufgabe vor dem nächsten Treffen  
+## Aufgabe vor dem nächsten Treffen  
 * "Lean Coffee" Technik verstehen(z.B Video durch YouTube) und 3 Ideen sammeln.
- 

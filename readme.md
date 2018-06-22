@@ -22,4 +22,3 @@ Diese Bücher waren im Gespräch:
 
 ## Aufgabe vor dem nächsten Treffen  
 * "Lean Coffee" Technik verstehen(z.B Video durch YouTube) und 3 Ideen sammeln.
- 
