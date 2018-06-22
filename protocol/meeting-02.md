@@ -16,8 +16,8 @@ Anwesende: Andrian, Andreas, Octav, Andre
     
     
 Diese Bücher waren im Gespräch:
-* Pitch Anything von Oren Klaff
-* Dein Wille geschehe von Stefan Merath
+* [Pitch Anything](https://www.amazon.de/dp/B004H4XL7E/ref=cm_sw_em_r_mt_dp_U_Y9llBb5MNRJ6V) von Oren Klaff
+* [Dein Wille geschehe](https://www.amazon.de/dp/3869367512/ref=cm_sw_em_r_mt_dp_U_e9llBbVMYB5NC) von Stefan Merath
 
 
 ## Aufgabe vor dem nächsten Treffen  

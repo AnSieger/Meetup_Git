@@ -15,8 +15,9 @@ Here we present what happened since the last meeting and review our commitments 
 
 ### Andre
 
-* Preparation of 3 topics for the lean coffee
-* Books "Dein Wille geschehe"
+* Checking topics from last protocol
+    * Preparation of 3 topics for the lean coffee
+    * Books "Dein Wille geschehe" and "Pitch Anything"
 
 ### Ralf
 
@@ -53,10 +54,10 @@ Here we want to identify new ideas and discuss them
 
 ## Links
 
-* https://canvanizer.com/downloads/business_model_canvas_poster.pdf
-* https://www.16personalities.com
-* https://www.heise.de/newsticker/meldung/Seniorenresidenz-in-Kalifornien-testet-Amazons-Alexa-als-Alltagshilfe-fuer-Bewohner-3740776.html
-* https://www.pluralsight.com
+* [Business Model Canvas PDF Template](https://canvanizer.com/downloads/business_model_canvas_poster.pdf)
+* [Personality Test on 16Personalities](https://www.16personalities.com)
+* [Amazon Alex in geriatric care](https://www.heise.de/newsticker/meldung/Seniorenresidenz-in-Kalifornien-testet-Amazons-Alexa-als-Alltagshilfe-fuer-Bewohner-3740776.html)
+* [Pluralsight Online learing courses](https://www.pluralsight.com)
 
 ## Commitments
 
@@ -64,7 +65,9 @@ What does everyone commit until the next meeting
 
 ### Everyone
 [ ] Created a Business Model Canvas for one of your ideas
+
 [ ] Checked your personality on 16personalities.com
+
 [ ] Prepared one problem to discuss (e.g. from https://www.openideo.com)
 
 ### Andre
