@@ -81,7 +81,8 @@ What does everyone commit until the next meeting
 [ ] Will write next protocol in Markdown
 
 ### Andreas
-[ ] Prepared small introduction to Markdown
+
+* [ ] Prepared small introduction to Markdown
 
 ## Next meeting
 
