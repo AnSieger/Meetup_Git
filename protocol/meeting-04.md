@@ -1,89 +1,49 @@
 # Meeting #4
 
-* Meeting on Thursday, 21th of June 2018 (Hochschule Bonn-Rhein-Sieg) (Andre, Ralf, Andrian, Octavian, Andreas)
+* 05.07.2018 (Hochschule Bonn-Rhein-Sieg) (Andre, Ralf, Andrian, Octav, Andreas, Oli)
 
 ## Agenda
 
-* Status quo
-* Lean Coffee
-* Defining commitments
-* Appointment for next Meeting
+* Vorstellungsrunde 
+* Präsentation GitHub
+* Einführung Markdown - vereinfachte Auszeichnungssprache
+* 16Personalities Test 
+* BMC
+* Aufgaben für das nächste Meeting
 
 ## Status quo
 
-Here we present what happened since the last meeting and review our commitments then.
+* Vorstellungsrunde
 
 ### Andre
 
-* Checking topics from last protocol
-    * Preparation of 3 topics for the lean coffee
-    * Books "Dein Wille geschehe" and "Pitch Anything"
-
-### Ralf
-
-* Introduced himself, as this was his first attendance in this MeetUp
-
-### Andrian
-
-### Octavian
+* GitHub - Präsentationsfolie und Beispiele
 
 ### Andreas
 
-## Lean Coffee
+* Kurze Einführung Markdown 
+    * Text, Dokumentation, Ebooks
+    * Beispiele Syntax, Basiskommandos, Listen, Links
 
-Here we want to identify new ideas and discuss them
+### Andre
 
-### Organization of business camps
+* Diskussionen 16Personalities.com Test 
 
-### Mobile Optician and hearing-devices
-
-* Andreas talked about his experience with a mobile optician
-
-### Efficiency of our MeetUps
-
-* Motivation / Problem
-* Introduction / Goals
-* Questions
-* Solutions
-
-### Addon for ChatApp
-
-### Local Group Messenger App
-
-### How to get high-tech into care-taking
+## Business Model Canvas
+    * 5 Beispiele 
 
 ## Links
 
 * [Business Model Canvas PDF Template](https://canvanizer.com/downloads/business_model_canvas_poster.pdf)
 * [Personality Test on 16Personalities](https://www.16personalities.com)
-* [Amazon Alex in geriatric care](https://www.heise.de/newsticker/meldung/Seniorenresidenz-in-Kalifornien-testet-Amazons-Alexa-als-Alltagshilfe-fuer-Bewohner-3740776.html)
-* [Pluralsight Online learing courses](https://www.pluralsight.com)
 
-## Commitments
+## Aufgaben für das nächste Meeting 
 
-What does everyone commit until the next meeting
 
-### Everyone
-[ ] Created a Business Model Canvas for one of your ideas
+### Alle
+* [ ] Problem/Idee vorbereiten + präsentieren (Story, Präsentation) +  BMC skizzieren 
 
-[ ] Checked your personality on 16personalities.com
 
-[ ] Prepared one problem to discuss (e.g. from https://www.openideo.com)
+## Nächstes Meeting
 
-### Andre
-[ ] Prepared small introduction to GIT
-
-### Ralf
-
-### Andrian
-
-### Octavian
-[ ] Will write next protocol in Markdown
-
-### Andreas
-
-* [ ] Prepared small introduction to Markdown
-
-## Next meeting
-
-Thursday, 5th of July 2018, 6.30 pm
+19.07.2018, 6.30 pm
