@@ -17,7 +17,7 @@
 
 ### Andre
 
-* GitHub - Präsentationsfolie und Beispiele
+* GitHub - Präsentationsfolie und Beispiele ([Download PDF](../presentation/Meetup4_05_07_2018_Github.pdf))
 
 ### Andreas
 
