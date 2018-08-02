@@ -11,7 +11,7 @@ Das Wichtigste ist, dass wir Spaß haben und produktiv Ideen durchgehen.
 
 ## Nächstes Treffen
 
-* Hier anmelden für [Donnerstag, 02. August 2018, Hochschule Bonn-Rhein-Sieg](https://www.meetup.com/de-DE/Brainstorming-Unternehmensgrundung/events/gzqvvpyxlbdb/)
+* Hier anmelden für [Donnerstag, 16. August 2018, Hochschule Bonn-Rhein-Sieg](https://www.meetup.com/de-DE/Brainstorming-Unternehmensgrundung/events/gzqvvpyxlbvb/)
 
 <!--
 
